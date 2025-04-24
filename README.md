@@ -9,7 +9,6 @@ A clean and responsive To-Do List web application built using HTML, CSS, and Jav
 - 🚮 Clear all tasks
 - 💾 Automatically save tasks using localStorage
 
----
 
 ## 🌟 Features
 
